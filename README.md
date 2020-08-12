@@ -40,7 +40,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
   - [Presentación](Presentaciones/Comandos_de_creación_de_la_geometría.pdf)
 - Cambio de colores
   - Link de Youtube
-  - [Presentación](Cambio_de_colores_y grosor_de_elementos.pdf)
+  - [Presentación](Presentaciones/Cambio_de_colores_y grosor_de_elementos.pdf)
 
   
 ## Creación de la malla de elementos finitos (módulo de mallado)
@@ -51,7 +51,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 - Numeración de los nodos del elemento finito
   - Link de Youtube
   - [Presentación](Presentaciones/Numeracion_de_los_nodos.pdf)
-  - [Documento](Documento/Numeración_de_los_nodos.pdf)
+  - [Documento](Documentos/Numeración_de_los_nodos.pdf)
 - Generación de mallas de elementos finitos
   - Link de Youtube
   - [Presentación](Presentaciones/Comandos_de_creación_malla.pdf)
