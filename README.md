@@ -16,7 +16,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
   - [Presentación](Presentaciones/Descarga_e_instalación.pdf)
 - Entorno de trabajo
   - Link de Youtube
-  - [Presentación](Presentaciones/Entorno _de_trabajo.pdf)
+  - [Presentación](Presentaciones/Descarga_e_instalación.pdf)
 - Operadores y funciones matemáticas en Gmsh
   - Link de YouTube
   - [Presentación](Presentaciones/Operadores_y_funciones_diapositiva.pdf)
