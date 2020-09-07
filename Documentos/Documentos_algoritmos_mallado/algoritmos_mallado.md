@@ -3,8 +3,7 @@
 Algunos algoritmos de mallado de elementos finitos del programa Gmsh están basados en los siguientes documentos.
 
 - R. A. Dwyer, A simple divide-and-conquer algorithm for computing Delaunay triangulations in O(n log n) expected
-time, In Proceedings of the second annual symposium on computational geometry, Yorktown Heights, 2–4 June
-1986.
+time, In Proceedings of the second annual symposium on computational geometry, Yorktown Heights, 2–4 June 1986.
   - [Documento](Documentos/Documentos_algoritmos_mallado/1.pdf)
 
 - N. P. Weatherill, The integrity of geometrical boundaries in the two-dimensional Delaunay triangulation, Commun.
@@ -12,8 +11,7 @@ Appl. Numer. Methods 6(2), pp. 101–109, 1990.
   - [Documento](Documentos/Documentos_algoritmos_mallado/2.pdf)
 
 - C. Geuzaine and J.-F. Remacle, Gmsh: a three-dimensional finite element mesh generator with built-in pre- and
-post-processing facilities, International Journal for Numerical Methods in Engineering 79(11), pp. 1309–1331,
-2009.
+post-processing facilities, International Journal for Numerical Methods in Engineering 79(11), pp. 1309–1331, 2009.
   - [Documento](Documentos/Documentos_algoritmos_mallado/3.pdf)
 
 - P.-L. George and P. Frey, Mesh generation, Hermes, Lyon, 2000.
