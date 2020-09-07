@@ -2,6 +2,8 @@
 
 Tutorial del programa Gmsh para la generación de mallas de elementos finitos.
 
+![icon_gmsh.png](Figuras/icon_gmsh.png)
+
 # Documentación
 
 Los link de YouTube y la documentación respectiva de cada sección del tutorial se encuentra a continuación.
@@ -16,7 +18,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
   - [Presentación](Presentaciones/Descarga_e_instalación.pdf)
 - Entorno de trabajo
   - Link de Youtube
-  - [Presentación](Presentaciones/Descarga_e_instalación.pdf)
+  - [Presentación](Presentaciones/Entorno_de_trabajo.pdf)
 - Operadores y funciones matemáticas en Gmsh
   - Link de YouTube
   - [Presentación](Presentaciones/Operadores_y_funciones_diapositiva.pdf)
@@ -26,46 +28,49 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 ## Creación de la geometría (módulo de geometría)
 
 
-- Ejercicio 1
+- Modelos
   - Link de YouTube
-  - [Ejercicio 1](Ejercicios/Ejercicio_1.md)
-- Punto, línea, arco de círculo 
-  - Link de YouTube
-  - [Presentación](Presentaciones/Comandos_de_creación_de_la_geometría.pdf)
-- Arco de elipse, trazo tipo Spline, lazo de curva
+  - [Presentación](Presentaciones/Modelos.pdf)
+  - [Ejercicios](Ejercicios/Ejercicio_1.md)
+- Características de la geometría, el punto y la línea recta
   - Link de YouTube
   - [Presentación](Presentaciones/Comandos_de_creación_de_la_geometría.pdf)
-- Superficie plana y huecos, integrar puntos a superficies, grupos físicos
+- Arco de círculo, arco de elipse, trazo tipo spline y lazos de curva
   - Link de YouTube
   - [Presentación](Presentaciones/Comandos_de_creación_de_la_geometría.pdf)
-- Cambio de colores
+- Superficie plana y huecos, integrar puntos y curvas a superficies, grupos físicos
+  - Link de YouTube
+  - [Presentación](Presentaciones/Comandos_de_creación_de_la_geometría.pdf)
+- Modificar colores y tamaños de las entidades
   - Link de Youtube
-  - [Presentación](Presentaciones/Cambio_de_colores_y grosor_de_elementos.pdf)
+  - [Presentación](Presentaciones/Modificar_colores_y_tamaños.pdf)
 
-  
+
 ## Creación de la malla de elementos finitos (módulo de mallado)
 
-- Ejercicio 2
-  - Link de YouTube
-  - [Ejercicio 2](Ejercicios/Ejercicio_2.md)
 - Numeración de los nodos del elemento finito
   - Link de Youtube
   - [Presentación](Presentaciones/Numeracion_de_los_nodos.pdf)
   - [Documento](Documentos/Numeración_de_los_nodos.pdf)
-- Generación de mallas de elementos finitos
+- Características del mallado, mallas 1D y 2D, visualizar mallas, tamaños y colores de malla
   - Link de Youtube
   - [Presentación](Presentaciones/Comandos_de_creación_malla.pdf)
-- Generación de mallas de elementos finitos
+  - [Ejercicio 2](Ejercicios/Ejercicio_2.md)
+- Orden del elemento finito, algoritmos de mallado 2D, elementos finitos rectangulares (Lagrangianos y Serendípitos)
+  - Link de Youtube
+  - [Presentación](Presentaciones/Comandos_de_creación_malla.pdf)
+  - [Documento](Documentos/Documentos_algoritmos_mallado/algoritmos_mallado.md)
+- Refinar la malla de elementos finitos
   - Link de Youtube
   - [Presentación](Presentaciones/Comandos_de_creación_malla.pdf)
 
 
-## Abstracción de datos de la malla de elementos finitos de Gsmh
+## Obtener los datos de la malla de elementos finitos de Gsmh
 
 - Gmsh-API
   - Link de Youtube
-  - [Presentación](Presentaciones/gmsh_api.pdf)
-
+  - [Presentación](Presentaciones/Gmsh_API.pdf)
+ 
 
 # Ejercicios
 

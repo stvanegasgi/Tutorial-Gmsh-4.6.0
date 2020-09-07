@@ -1,0 +1,30 @@
+ 
+1) --> R. A. Dwyer, A simple divide-and-conquer algorithm for computing Delaunay triangulations in O(n log n) expected
+time, In Proceedings of the second annual symposium on computational geometry, Yorktown Heights, 2–4 June
+1986.
+
+
+2) --> N. P. Weatherill, The integrity of geometrical boundaries in the two-dimensional Delaunay triangulation, Commun.
+Appl. Numer. Methods 6(2), pp. 101–109, 1990.
+
+
+3) --> C. Geuzaine and J.-F. Remacle, Gmsh: a three-dimensional finite element mesh generator with built-in pre- and
+post-processing facilities, International Journal for Numerical Methods in Engineering 79(11), pp. 1309–1331,
+2009.
+
+
+4) --> P.-L. George and P. Frey, Mesh generation, Hermes, Lyon, 2000.
+
+
+5) --> S. Rebay, Efficient unstructured mesh generation by means of Delaunay triangulation and Bowyer-Watson algo-
+rithm, J. Comput. Phys. 106, pp. 25–138, 1993.
+
+
+
+6) --> J.-F. Remacle, F. Henrotte, T. Carrier-Baudouin, E. Bchet, E. Marchandise, C. Geuzaine and T. Mouton, A
+frontal Delaunay quad mesh generator using the Linf norm, International Journal for Numerical Methods in
+Engineering, 94(5), pp. 494-512, 2013.
+
+
+
+7) --> F. Hecht, BAMG: bidimensional anisotropic mesh generator, User Guide, INRIA, Rocquencourt, 1998.
