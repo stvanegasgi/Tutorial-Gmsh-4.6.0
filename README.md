@@ -70,6 +70,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 - Gmsh-API
   - Link de Youtube
   - [Presentación](Presentaciones/Gmsh_API.pdf)
+  - [Documento](Documentos/gmsh_api.pdf)
  
 
 # Ejercicios
