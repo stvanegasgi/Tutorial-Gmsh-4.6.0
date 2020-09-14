@@ -75,8 +75,8 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 
 # Ejercicios
 
-
 - [Ejercicio 1](Ejercicios/Ejercicio_1.md)
 - [Ejercicio 2](Ejercicios/Ejercicio_2.md)
+- [Malla estructurada](Ejercicios/Malla_estructurada.md)
 
 
