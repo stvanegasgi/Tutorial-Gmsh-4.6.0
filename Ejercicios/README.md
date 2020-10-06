@@ -17,7 +17,7 @@
 ## Ejercicio 2 (Creación de la malla de elementos finitos)
 
 - [Geometría](Ejercicio_2.geo)
-- [Malla](Ejercicio_2.geo)
+- [Malla](Ejercicio_2_malla.geo)
 
 ### Dimensiones
 
@@ -43,4 +43,4 @@
 ### Propuesta de etiquetas numéricas
 
 
-![malla_estructurada_etiquetas.png](Figuras/ejercicio_2_etiquetas.png)
+![malla_estructurada_etiquetas.png](Figuras/malla_estructurada.png)
