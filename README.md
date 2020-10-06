@@ -66,16 +66,19 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 
 ## Obtener los datos de la malla de elementos finitos de Gsmh
 
-- Gmsh-API
+- Gmsh-API (Parte 1)
   - Link de Youtube
-  - [Presentación](Presentaciones/14_Extraer_datos_malla_Gmsh_API.pdf)
+  - [Presentación](Presentaciones/14_Extraer_datos_malla_Gmsh_API_parte_1.pdf)
+- Gmsh_API (Parte 2)
+  - Link de Youtube
+  - [Presentación](Presentaciones/14_Extraer_datos_malla_Gmsh_API_parte_2.pdf)
   - [Documento](Documentos/14_Tipos_de_elementos_en_Gmsh.pdf)
  
 
 # Ejercicios
 
-- [Ejercicio 1](Ejercicios/Ejercicio_1.md)
-- [Ejercicio 2](Ejercicios/Ejercicio_2.md)
-- [Malla estructurada](Ejercicios/Malla_estructurada.md)
+- [Ejercicio 1](Ejercicios/README.md)
+- [Ejercicio 2](Ejercicios/README.md)
+- [Malla estructurada](Ejercicios/README.md)
 
 
