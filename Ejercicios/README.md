@@ -43,4 +43,5 @@
 ### Propuesta de etiquetas numéricas
 
 
-![malla_estructurada_etiquetas.png](Figuras/malla_estructurada.png)
+![malla_estructurada_etiquetas.png](Figuras/malla_estructurada_etiquetas.png)
+
