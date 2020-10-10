@@ -30,7 +30,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 - Modelos en Gmsh
   - [Link de YouTube](https://youtu.be/r5GpXITldSI)
   - [Presentación](Presentaciones/05_Modelos_en_Gmsh.pdf)
-  - [Ejercicio](Ejercicios/Ejercicio_1.md)
+  - [Ejercicio](Ejercicios/Ejercicio_1/)
 - Características de la geometría. Creación del punto y la línea recta
   - [Link de YouTube](https://youtu.be/Q06-Dr7pSwk)
   - [Presentación](Presentaciones/06_Características_geometría-creación_punto_línea_recta.pdf)
@@ -49,16 +49,16 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 
 - Numeración de los nodos locales de los elementos finitos en Gmsh
   - [Link de YouTube](https://youtu.be/PBLEk50VSTY)
-  - [Presentación](Presentaciones/10_Numeración_elementos_finitos_presentación.pdf)
-  - [Documento](Documentos/10_Numeración_elementos_finitos_documento.pdf)
+  - [Presentación](Presentaciones/10_Numeración_nodos_elementos_finitos_presentación.pdf)
+  - [Documento](Documentos/10_Numeración_nodos_elementos_finitos_documento.pdf)
 - Características del mallado, mallas 1D y 2D, visualizar mallas, tamaños y colores de malla
   - [Link de YouTube](https://youtu.be/KWtD-KQPMPQ)
   - [Presentación](Presentaciones/11_Mallas_1D_2D_visualizar_tamaños_y_colores.pdf)
-  - [Ejercicio 2](Ejercicios/Ejercicio_2.md)
+  - [Ejercicio 2](Ejercicios/Ejercicio_2/)
 - Orden del elemento finito, algoritmos de mallado 2D, elementos finitos rectangulares (Lagrangianos y Serendípitos)
   - [Link de YouTube](https://youtu.be/Gj0fxNOh11k)
   - [Presentación](Presentaciones/12_Orden-algoritmos_mallado_2D-elementos_rectangulares.pdf)
-  - [Documento](Documentos/Documentos_algoritmos_mallado/algoritmos_mallado.md)
+  - [Documento](Documentos/Documentos_algoritmos_mallado/)
 - Refinar la malla de elementos finitos
   - [Link de YouTube](https://youtu.be/bTFlYaX2jLY)
   - [Presentación](Presentaciones/13_Refinar_malla_de_elementos_finitos.pdf)
