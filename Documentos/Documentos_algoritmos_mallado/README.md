@@ -28,4 +28,3 @@ Engineering, 94(5), pp. 494-512, 2013.
 
 - F. Hecht, BAMG: bidimensional anisotropic mesh generator, User Guide, INRIA, Rocquencourt, 1998.
   - [Documento](7.pdf)
-Documentos_algoritmos_mallado
