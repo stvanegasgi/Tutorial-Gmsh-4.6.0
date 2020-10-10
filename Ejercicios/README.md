@@ -2,7 +2,7 @@
 
 ## Ejercicio 1 (Creación de la geometría)
 
-- [Geometría](Ejercicio_1.geo)
+- [Geometría](Ejercicio_1/Ejercicio_1.geo)
 
 ### Dimensiones
 
@@ -16,8 +16,8 @@
 
 ## Ejercicio 2 (Creación de la malla de elementos finitos)
 
-- [Geometría](Ejercicio_2.geo)
-- [Malla](Ejercicio_2_malla.geo)
+- [Geometría](Ejercicio_2/Ejercicio_2.geo)
+- [Malla](Ejercicio_2/Ejercicio_2_malla.geo)
 
 ### Dimensiones
 
@@ -33,7 +33,7 @@
 
 ## Ejercicio de malla estructurada
 
-- [Geometría y malla](Malla_estructurada.geo)
+- [Geometría y malla](Malla_estructurada/Malla_estructurada.geo)
 
 ### Dimensiones
 

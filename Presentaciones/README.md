@@ -1,5 +1,7 @@
 # Presentaciones
 
+## Descarga, instalación y configuración inicial del programa Gmsh
+
 - Conceptos generales del programa Gmsh
   - [Presentación](01_Conceptos_generales_de_Gmsh.pdf)
 - Descarga e instalación del programa Gmsh

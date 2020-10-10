@@ -38,29 +38,29 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
   - [Link de YouTube](https://youtu.be/vbY1QlT1-Ew)
   - [Presentación](Presentaciones/07_Arcos_círculo_elipse-trazo_spline-lazo_de_curva.pdf)
 - Superficie plana y orificios, integrar puntos y curvas a superficies, grupos físicos
-  - Link de YouTube
+  - [Link de YouTube](https://youtu.be/AQAVexXId48)
   - [Presentación](Presentaciones/08_Superficie_plana-puntos_y_curvas_en_superficies-grupos_físicos.pdf)
 - Modificar colores y tamaños de las entidades del programa Gmsh
-  - Link de Youtube
+  - [Link de YouTube](https://youtu.be/VN8U6gm0nmI)
   - [Presentación](Presentaciones/09_Modificar_colores_y_tamaños_en_entidades.pdf)
 
 
 ## Creación de la malla de elementos finitos (módulo de mallado)
 
 - Numeración de los nodos locales de los elementos finitos en Gmsh
-  - Link de Youtube
+  - [Link de YouTube](https://youtu.be/PBLEk50VSTY)
   - [Presentación](Presentaciones/10_Numeración_elementos_finitos_presentación.pdf)
   - [Documento](Documentos/10_Numeración_elementos_finitos_documento.pdf)
 - Características del mallado, mallas 1D y 2D, visualizar mallas, tamaños y colores de malla
-  - Link de Youtube
+  - [Link de YouTube](https://youtu.be/KWtD-KQPMPQ)
   - [Presentación](Presentaciones/11_Mallas_1D_2D_visualizar_tamaños_y_colores.pdf)
   - [Ejercicio 2](Ejercicios/Ejercicio_2.md)
 - Orden del elemento finito, algoritmos de mallado 2D, elementos finitos rectangulares (Lagrangianos y Serendípitos)
-  - Link de Youtube
+  - [Link de YouTube](https://youtu.be/Gj0fxNOh11k)
   - [Presentación](Presentaciones/12_Orden-algoritmos_mallado_2D-elementos_rectangulares.pdf)
   - [Documento](Documentos/Documentos_algoritmos_mallado/algoritmos_mallado.md)
 - Refinar la malla de elementos finitos
-  - Link de Youtube
+  - [Link de YouTube](https://youtu.be/bTFlYaX2jLY)
   - [Presentación](Presentaciones/13_Refinar_malla_de_elementos_finitos.pdf)
 
 
