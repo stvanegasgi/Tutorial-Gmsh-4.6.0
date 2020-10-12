@@ -67,7 +67,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 ## Obtener los datos de la malla de elementos finitos de Gsmh
 
 - Gmsh-API (Parte 1)
-  - Link de Youtube
+  - [Link de YouTube](https://youtu.be/jxDwQlbaSIk)
   - [Presentación](Presentaciones/14_Extraer_datos_malla_Gmsh_API_parte_1.pdf)
 - Gmsh_API (Parte 2)
   - Link de Youtube
