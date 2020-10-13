@@ -148,7 +148,7 @@ Plane Surface(mate1) = {exte, inte};
 
 
 // se crea la superficie plana material 2
-mate2 = news;
+mate2 = 2;
 Plane Surface(mate2) = {abajo};
 
 // ===========================================================================
