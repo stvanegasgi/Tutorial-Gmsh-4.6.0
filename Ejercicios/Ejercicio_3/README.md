@@ -2,8 +2,8 @@
 
 - [Geometría](Ejercicio_2.geo)
 - [Malla](Ejercicio_2_malla.geo)
-- [Datos de malla](ejercicio_2_datos.py)
-
+- [Datos de malla](Ejercicio_2_malla.msh)
+- [Extracción de datos](ejercicio_2_datos.py)
 
 ### Dimensiones
 
