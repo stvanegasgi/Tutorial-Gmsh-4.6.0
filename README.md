@@ -17,10 +17,10 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
   - [Link de Youtube](https://youtu.be/BEkoTLlJo2k)
   - [Presentación](Presentaciones/02_Descarga_e_instalación_de_Gmsh.pdf)
 - Entorno de trabajo usando editor de texto
-  - [Link de Youtube](https://youtu.be/7Tl0bo0jNxw)
+  - [Link de Youtube](https://youtu.be/7Tl0bo0jNxw)steam esgratis
   - [Presentación](Presentaciones/03_Entorno_de_trabajo_editor_de_texto.pdf)
 - Operadores y funciones matemáticas en el programa Gmsh
-  - [Link de YouTube](https://youtu.be/3fqRG-5_K9U)
+  - [Link de YouTube](https://youtu.be/6dJiXmZomnc)
   - [Presentación](Presentaciones/04_Operadores_y_funciones_en_Gmsh_presentación.pdf)
   - [Documento](Documentos/04_Operadores_y_funciones_matemáticas_en_Gmsh_documento.pdf)
 
@@ -35,7 +35,7 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
   - [Link de YouTube](https://youtu.be/Q06-Dr7pSwk)
   - [Presentación](Presentaciones/06_Características_geometría-creación_punto_línea_recta.pdf)
 - Arco de círculo, arco de elipse, trazo tipo spline y lazos de curva
-  - [Link de YouTube](https://youtu.be/vbY1QlT1-Ew)
+  - [Link de YouTube](https://youtu.be/7wenrrwXzeg)
   - [Presentación](Presentaciones/07_Arcos_círculo_elipse-trazo_spline-lazo_de_curva.pdf)
 - Superficie plana y orificios, integrar puntos y curvas a superficies, grupos físicos
   - [Link de YouTube](https://youtu.be/AQAVexXId48)
@@ -68,10 +68,10 @@ Los link de YouTube y la documentación respectiva de cada sección del tutorial
 
 - Gmsh-API (Parte 1)
   - [Link de YouTube](https://youtu.be/jxDwQlbaSIk)
-  - [Presentación](Presentaciones/14_Extraer_datos_malla_Gmsh_API_parte_1.pdf)
+  - [Presentación](Presentaciones/15_Extraer_datos_malla_Gmsh_API_parte_1.pdf)
 - Gmsh_API (Parte 2)
   - [Link de YouTube](https://youtu.be/JiYn7_f6t6Q)
-  - [Presentación](Presentaciones/15_Extraer_datos_malla_Gmsh_API_parte_2.pdf)
+  - [Presentación](Presentaciones/16_Extraer_datos_malla_Gmsh_API_parte_2.pdf)
   - [Documento](Documentos/14_Tipos_de_elementos_en_Gmsh.pdf)
  
 
